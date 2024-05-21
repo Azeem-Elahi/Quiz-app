@@ -1,2 +1,2 @@
 # Quiz app
-The app is about knowledge quiz app is open for learners.
+This app is based on quizes on different categories of education fields.
